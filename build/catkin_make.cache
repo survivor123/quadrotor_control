@@ -1,2 +1,2 @@
-
--DCATKIN_DEVEL_PREFIX=/home/luis/Desktop/documents/drone_proof/devel -DCMAKE_INSTALL_PREFIX=/home/luis/Desktop/documents/drone_proof/install -G Unix Makefiles
+imav_2017
+-DCATKIN_DEVEL_PREFIX=/home/luis/Desktop/documents/drone_proof/devel -DCMAKE_INSTALL_PREFIX=/home/luis/Desktop/documents/drone_proof/install -DCATKIN_WHITELIST_PACKAGES=imav_2017 -G Unix Makefiles

@@ -28,3 +28,11 @@
 /home/luis/Desktop/documents/drone_proof/build/gtest/gtest/CMakeFiles/gtest_main.dir
 /home/luis/Desktop/documents/drone_proof/build/gtest/gtest/CMakeFiles/install/strip.dir
 /home/luis/Desktop/documents/drone_proof/build/gtest/gtest/CMakeFiles/install/local.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/rebuild_cache.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/edit_cache.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/list_install_components.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/install.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/_catkin_empty_exported_target.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/install/local.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/install/strip.dir
+/home/luis/Desktop/documents/drone_proof/build/imav_2017/CMakeFiles/test.dir

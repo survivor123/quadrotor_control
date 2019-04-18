@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/luis/Desktop/documents/drone_proof/devel:$CMAKE_PREFIX_PATH"
 export PWD="/home/luis/Desktop/documents/drone_proof/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/luis/Desktop/documents/drone_proof/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/luis/Desktop/documents/drone_proof/src:/home/luis/catkin_ws/src:/opt/ros/kinetic/share"
